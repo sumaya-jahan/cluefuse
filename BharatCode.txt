@@ -1,0 +1,27 @@
+
+Project Name: CLUEFUSE
+Tagline: Your data reveals more than you think.
+
+GitHub Repository:
+https://github.com/sumaya-jahan/cluefuse
+
+Description:
+CLUEFUSE is an AI-assisted privacy exposure intelligence application that helps users identify potentially sensitive information in text and images.
+
+Features:
+- Text privacy risk analysis
+- Uploaded image analysis
+- Public image URL analysis
+- Risk assessment and evidence clues
+- Visual relationship graph
+- Privacy recommendations
+- Exportable PDF reports
+
+Technology Stack:
+React, Vite, Node.js, Express, Adaption AI
+
+AI Integration:
+Currently uses the Adaption AI API for analysis.
+
+Security:
+API credentials are stored in environment variables and are excluded from the public repository.
